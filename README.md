@@ -1,2 +1,2 @@
 # DataAnalysisPortfolio
-Come on my journey of learning Data and Business analysis.
+Come with me on my journey to learn Data and Business analysis.
